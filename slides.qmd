@@ -1,0 +1,42 @@
+---
+title: "Network science approach to psychopathology using R"
+subtitle: "Alberto Jover Martínez"
+title-slide-attributes:
+  data-background-size: contain
+  data-background-color: black
+  data-background-opacity: "0.5"
+author: "R Café @ TU Delft "
+date: 2023-03-17
+format: 
+  revealjs:
+    fig-cap-location: margin  
+    logo: img/logo.png
+    chalkboard: true
+    incremental: true 
+    mouse-wheel: true 
+    theme: [default, custom.scss]
+---
+
+## {background-color="black" background-image="img/logo_rectangular.png" background-size="1000px" }
+
+
+## Icebreaker `r emo::ji("icecream")`
+
+
+- Have you ever used R(Studio)? `r emo::ji("slightly smiling face")`
+
+
+- Have you ever worked with network analysis? `r emo::ji("blush")`
+
+
+- Do you prefer coding with music or in silence?`r emo::ji("music")`
+
+
+- Have you ever stayed up all night debugging code? `r emo::ji(c("zany face"))`
+
+. . .
+
+
+
+
+
